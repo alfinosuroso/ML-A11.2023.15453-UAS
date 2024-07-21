@@ -9,7 +9,11 @@ Untuk menjalankan program ini, ikuti langkah berikut:
  ```bash
 git clone https://github.com/alfinosuroso/ML-A11.2023.15453-UAS-Prediksi-Depresi-Pascapersalinan-Model-SVM-dan-RF.git
 ```
-3. **Jalankan postpartum-depression.ipynb**
+3. **Instalasi Dependensi**
+ ```bash
+pip install -r requirements.txt
+```
+4. **Jalankan postpartum-depression.ipynb**
 
 ## Dataset
 Original dataset bisa ditemukan disini -> [![Linkedin Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/parvezalmuqtadir2348/postpartum-depression/data)
